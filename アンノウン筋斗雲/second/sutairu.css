@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align:center;
+    margin-top: 50px;
+    
+}
+.coca-cola {
+    margin-bottom: 20px;
+}
+
+.cocacoca{
+    margin-bottom: 100px;
+}
+.asdf{
+    margin-bottom: 3000px;
+}
+/* sdg */
+
+#C {
+    padding: 30px 120px;
+    font-size: 25px;
+    background-color: aqua;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-left: 53px
+
+
+}
+
+#C:hover {
+    background-color: rgb(2, 100, 68);
+    transform: scale(1.5)
+}
+
+#counter {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+#T {
+transform: scale(4);
+}
+
